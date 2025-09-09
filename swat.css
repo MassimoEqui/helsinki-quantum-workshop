@@ -1,5 +1,7 @@
 #al-head {
 	background-image: url('images/helsinki.jpg');
+	background-size: 100% auto;
+	background-position-y: -100px;
 	height: 360px;
 }
 #al-head>div>h1 {
